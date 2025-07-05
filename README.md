@@ -10,8 +10,15 @@ Proyecto simple de API REST creada con FastAPI para gestionar un catálogo de pr
 
 ## 📁 Estructura del proyecto
 
-<pre lang="text"><code>```text FastAPI Catalog/ ├── main.py └── src/ ├── routes/ │ └── routes_catalog.py └── models/ └── models_catalog.py ```</code></pre>
-
+```bsh
+ FastAPI Catalog/
+├── main.py
+└── src/
+    ├── routes/
+    │   └── routes_catalog.py
+    └── models/
+        └── models_catalog.py
+```
 
 ## 📦 Instalación
 
